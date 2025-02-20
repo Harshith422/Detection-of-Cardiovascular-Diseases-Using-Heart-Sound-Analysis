@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 ### 2️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/Harshith422/Dectection-of-Cardiovascular-Diseases-Using-Heart-Sound-Analysis.git
+git clone https://github.com/Harshith422/Detection-of-Cardiovascular-Diseases-Using-Heart-Sound-Analysis.git
 cd cvd-detection
 ```
 
