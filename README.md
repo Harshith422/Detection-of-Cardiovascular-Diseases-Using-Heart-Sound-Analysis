@@ -23,7 +23,7 @@ The system consists of:
 ```
 /CODE_BSP                        # Code
 │── /bsp_dataset                 # Dataset
-    │──training_a                 # Dataset for project 
+    /training_a                 # Dataset for project 
 │── README.md                    # Project Documentation
 ```
 
@@ -38,13 +38,13 @@ pip install -r requirements.txt
 
 ### 2️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/Harshith422/cvd-detection.git
+git clone https://github.com/Harshith422/Dectection-of-Cardiovascular-Diseases-Using-Heart-Sound-Analysis.git
 cd cvd-detection
 ```
 
 ### 3️⃣ Run CODE_BSP
 ```bash
-CODE_BSP.ipynb
+run CODE_BSP.ipynb
 ```
 
 ## 🔍 Key Algorithms Used  
