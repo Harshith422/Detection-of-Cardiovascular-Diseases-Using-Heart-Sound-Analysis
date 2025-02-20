@@ -21,18 +21,10 @@ The system consists of:
 
 ## 📜 Project Structure  
 ```
-/cvd-detection
-│── data/                          # ECG & PCG dataset
-│── preprocessing/                  # Signal processing & feature extraction
-│── models/                         # Machine learning & deep learning models
-│   ├── svm_classifier.py           # SVM model for classification
-│   ├── cnn_lstm_model.py           # CNN-LSTM hybrid model
-│   ├── train.py                    # Training script
-│   ├── evaluate.py                  # Model evaluation script
-│── utils/                          # Helper functions
-│── results/                         # Model results, graphs, and logs
-│── README.md                        # Project Documentation
-│── requirements.txt                  # Dependencies
+/CODE_BSP                        # Code
+│── /bsp_dataset                 # Dataset
+    │──training_a                 # Dataset for project 
+│── README.md                    # Project Documentation
 ```
 
 ## 🛠️ Installation & Setup  
