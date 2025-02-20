@@ -42,24 +42,9 @@ git clone https://github.com/Harshith422/cvd-detection.git
 cd cvd-detection
 ```
 
-### 3️⃣ Run Preprocessing  
+### 3️⃣ Run CODE_BSP
 ```bash
-python preprocessing/data_preprocess.py
-```
-
-### 4️⃣ Train Models  
-- **SVM Model:**  
-```bash
-python models/train.py --model svm
-```
-- **CNN-LSTM Hybrid Model:**  
-```bash
-python models/train.py --model cnn-lstm
-```
-
-### 5️⃣ Evaluate Performance  
-```bash
-python models/evaluate.py
+CODE_BSP.ipynb
 ```
 
 ## 🔍 Key Algorithms Used  
